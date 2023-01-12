@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- layout margin values -->
+    <dimen name="xs_margin">8dp</dimen>
+    <dimen name="sm_margin">16dp</dimen>
+    <dimen name="md_margin">24dp</dimen>
+    <dimen name="lg_margin">32dp</dimen>
+    <dimen name="xl_margin">40dp</dimen>
+    <!-- layout padding values -->
+    <dimen name="xs_padding">8dp</dimen>
+    <dimen name="sm_padding">16dp</dimen>
+    <dimen name="md_padding">24dp</dimen>
+    <dimen name="lg_padding">32dp</dimen>
+    <dimen name="xl_padding">40dp</dimen>
+    <!-- font values -->
+    <dimen name="xs_font">4sp</dimen>
+    <dimen name="sm_font">8sp</dimen>
+    <dimen name="md_font">16sp</dimen>
+    <dimen name="lg_font">20sp</dimen>
+    <dimen name="xl_font">24sp</dimen>
+    <dimen name="xxl_font">32sp</dimen>
+
+    <!-- layout projects values    -->
+</resources>
